@@ -15,7 +15,7 @@ Installation:
 
 How to use, Whisper:
 
-Open directly in your browser, http://localhost
+- Open directly in your browser, http://localhost
 
 (make sure you have 'tmp' folder inside your directory) 
 
